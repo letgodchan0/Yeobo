@@ -8,7 +8,7 @@ Vue.config.productionTip = false
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyACs2jbBXhOIlRnugdswVY--7aiBx_D7Ss",
+    key: "API 키 들어가는 곳",
     libraries: "places",
     region: "KR"
   }
