@@ -1,5 +1,5 @@
-export default (google) => {
-  return class CustomMarker extends google.maps.OverlayView {
+export default (VueGoogleMaps) => {
+  return class CustomMarker extends VueGoogleMaps.maps.OverlayView {
     constructor(position, content, options = { classname: "custom-marker" }) {
       super();
       const { classname } = options;
