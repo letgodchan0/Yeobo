@@ -1,0 +1,3954 @@
+[
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "토론토",
+            "lat": "43.6534817",
+            "lng": "-79.3839347"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "몬트리올",
+            "lat": "45.5031824",
+            "lng": "-73.5698065"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "베를린",
+            "lat": "52.5170365",
+            "lng": "13.3888599"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뮌헨",
+            "lat": "48.1371079",
+            "lng": "11.5753822"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "프랑크푸르트",
+            "lat": "50.1106444",
+            "lng": "8.6820917"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "드레스덴",
+            "lat": "51.0493286",
+            "lng": "13.7381437"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "룩셈부르크",
+            "lat": "49.8158683",
+            "lng": "6.1296751"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "모나코",
+            "lat": "43.73844905",
+            "lng": "7.424224092532953"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "브뤼셀",
+            "lat": "50.8465573",
+            "lng": "4.351697"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "브뤼허",
+            "lat": "51.2085526",
+            "lng": "3.226772"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "헨트",
+            "lat": "51.0538286",
+            "lng": "3.7250121"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "인터라켄",
+            "lat": "46.6855231",
+            "lng": "7.8585139"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "루체른",
+            "lat": "47.0505452",
+            "lng": "8.3054682"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "취리히",
+            "lat": "47.3744489",
+            "lng": "8.5410422"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "제네바",
+            "lat": "8.4230624",
+            "lng": "-13.1589495"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "더블린",
+            "lat": "53.3497645",
+            "lng": "-6.2602732"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "골웨이",
+            "lat": "53.2744122",
+            "lng": "-9.0490601"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "더블린",
+            "lat": "53.3497645",
+            "lng": "-6.2602732"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "골웨이",
+            "lat": "53.2744122",
+            "lng": "-9.0490601"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "북아일랜드",
+            "lat": "54.5859836",
+            "lng": "-6.9591554"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "런던",
+            "lat": "51.5073219",
+            "lng": "-0.1276474"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "옥스포드",
+            "lat": "37.5421416",
+            "lng": "126.96883624500475"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "리버풀",
+            "lat": "53.4071991",
+            "lng": "-2.99168"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "비엔나",
+            "lat": "37.9526716",
+            "lng": "23.7266278"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "잘츠부르크",
+            "lat": "47.7978459",
+            "lng": "13.046623175442477"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "할슈타트",
+            "lat": "47.5621698",
+            "lng": "13.6486697"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "로마",
+            "lat": "41.8933203",
+            "lng": "12.4829321"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "피렌체",
+            "lat": "43.7806771",
+            "lng": "11.24376289731579"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "베네치아",
+            "lat": "45.4371908",
+            "lng": "12.3345898"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "밀라노",
+            "lat": "45.4641943",
+            "lng": "9.1896346"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "파리",
+            "lat": "48.8588897",
+            "lng": "2.3200410217200766"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "니스",
+            "lat": "43.70297195",
+            "lng": "7.243455214943182"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마르세유",
+            "lat": "43.2961743",
+            "lng": "5.3699525"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "보르도",
+            "lat": "44.841225",
+            "lng": "-0.5800364"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아테네",
+            "lat": "37.9839412",
+            "lng": "23.7283052"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "산토리니",
+            "lat": "45.5986989",
+            "lng": "11.2568691"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하니아",
+            "lat": "35.5120831",
+            "lng": "24.0191544"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "로도스",
+            "lat": "36.4379874",
+            "lng": "28.2233083"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "발레타",
+            "lat": "35.8989818",
+            "lng": "14.5136759"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "몰타",
+            "lat": "35.8885993",
+            "lng": "14.4476911"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "사라예보",
+            "lat": "43.8519774",
+            "lng": "18.3866868"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바르셀로나",
+            "lat": "41.3828939",
+            "lng": "2.1774322"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마드리드",
+            "lat": "40.4167047",
+            "lng": "-3.7035825"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "세비야",
+            "lat": "37.3886303",
+            "lng": "-5.9953403"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "그라나다",
+            "lat": "37.1734995",
+            "lng": "-3.5995337"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "류블랴나",
+            "lat": "46.0500268",
+            "lng": "14.5069289"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "블레드",
+            "lat": "46.34853235",
+            "lng": "14.069178166596918"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "지브롤터",
+            "lat": "36.10674695",
+            "lng": "-5.335277183483561"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "두브로브니크",
+            "lat": "42.64873625",
+            "lng": "18.094680152605108"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "자그레브",
+            "lat": "45.8131847",
+            "lng": "15.9771774"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "플리트비체",
+            "lat": "44.85230125",
+            "lng": "15.590348985343969"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "이스탄불",
+            "lat": "41.0091982",
+            "lng": "28.9662187"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "카파도키아",
+            "lat": "38.646806",
+            "lng": "34.8491554"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "안탈리아",
+            "lat": "36.8872942",
+            "lng": "30.7074549"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "리스본",
+            "lat": "38.7440523",
+            "lng": "-9.151827931741947"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "포르투",
+            "lat": "41.23668845",
+            "lng": "-8.302018317104206"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "리가",
+            "lat": "56.9493977",
+            "lng": "24.1051846"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "상트페테르부르크",
+            "lat": "59.938732",
+            "lng": "30.316229"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "블라디보스토크",
+            "lat": "43.1150678",
+            "lng": "131.8855768"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "모스크바",
+            "lat": "55.7504461",
+            "lng": "37.6174943"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "이르쿠츠크",
+            "lat": "52.289597",
+            "lng": "104.280586"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "부쿠레슈티",
+            "lat": "44.4361414",
+            "lng": "26.1027202"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "이아시",
+            "lat": "47.1615341",
+            "lng": "27.5836142"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "스코페",
+            "lat": "41.9960924",
+            "lng": "21.4316495"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "소피아",
+            "lat": "42.6977028",
+            "lng": "23.3217359"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "플로브디프",
+            "lat": "42.1418541",
+            "lng": "24.7499297"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "불가리아",
+            "lat": "42.6073975",
+            "lng": "25.4856617"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "베오그라드",
+            "lat": "44.8178131",
+            "lng": "20.4568974"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "탈린",
+            "lat": "59.4372155",
+            "lng": "24.7453688"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "키예프",
+            "lat": "50.4500336",
+            "lng": "30.5241361"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오데사",
+            "lat": "46.4843023",
+            "lng": "30.7322878"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "체르노빌",
+            "lat": "51.30769145",
+            "lng": "29.901420415763113"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "트빌리시",
+            "lat": "41.6934591",
+            "lng": "44.8014495"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "프라하",
+            "lat": "50.0596288",
+            "lng": "14.446459273258009"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "플젠",
+            "lat": "35.1764337",
+            "lng": "128.8144583"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "크라쿠프",
+            "lat": "50.0469432",
+            "lng": "19.997153435836697"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바르샤바",
+            "lat": "52.2319581",
+            "lng": "21.0067249"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "그단스크",
+            "lat": "54.3706858",
+            "lng": "18.61298210330077"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "부다페스트",
+            "lat": "47.4979937",
+            "lng": "19.0403594"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오슬로",
+            "lat": "59.9133301",
+            "lng": "10.7389701"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "트롬쇠",
+            "lat": "69.649208",
+            "lng": "18.9543434"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "베르겐",
+            "lat": "60.392593000000005",
+            "lng": "5.31966375828312"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "코펜하겐",
+            "lat": "55.6867243",
+            "lng": "12.5700724"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "스톡홀름",
+            "lat": "59.3251172",
+            "lng": "18.0710935"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "예테보리",
+            "lat": "57.7072326",
+            "lng": "11.9670171"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "키루나",
+            "lat": "-2.68945",
+            "lng": "28.0916167"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "말뫼",
+            "lat": "55.6052931",
+            "lng": "13.0001566"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "레이캬비크",
+            "lat": "64.24450355",
+            "lng": "-21.769263572151285"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "헬싱키",
+            "lat": "60.1674881",
+            "lng": "24.9427473"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "루앙프라방",
+            "lat": "20.2115415",
+            "lng": "102.612684"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "코타키나발루",
+            "lat": "5.9780066",
+            "lng": "116.0728988"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "쿠알라룸푸르",
+            "lat": "3.1516964",
+            "lng": "101.6942371"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "페낭",
+            "lat": "5.4065013",
+            "lng": "100.2559077"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "몰디브",
+            "lat": "4.7064352",
+            "lng": "73.3287853"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "양곤",
+            "lat": "16.7967129",
+            "lng": "96.1609916"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "만달레이",
+            "lat": "20.9872395",
+            "lng": "95.7656747"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바간",
+            "lat": "21.1317111",
+            "lng": "94.8623644"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "다낭",
+            "lat": "16.068",
+            "lng": "108.212"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "호치민",
+            "lat": "28.6788871",
+            "lng": "-106.1287506"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하노이",
+            "lat": "21.0294498",
+            "lng": "105.8544441"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나트랑",
+            "lat": "12.2431693",
+            "lng": "109.1898675"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "발리",
+            "lat": "37.8777112",
+            "lng": "38.8923898"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "자카르타",
+            "lat": "-6.1753942",
+            "lng": "106.827183"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "씨엠립",
+            "lat": "13.3517265",
+            "lng": "103.8524333"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "프놈펜",
+            "lat": "11.568271",
+            "lng": "104.9224426"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "앙코르",
+            "lat": "13.41244125",
+            "lng": "103.86658402684736"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바탐방",
+            "lat": "13.0998526",
+            "lng": "103.1966659"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "방콕",
+            "lat": "13.7525438",
+            "lng": "100.4934734"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "파타야",
+            "lat": "12.9366674",
+            "lng": "100.8864587"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "치앙마이",
+            "lat": "18.7882778",
+            "lng": "98.9858802"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "푸켓",
+            "lat": "56.7110269",
+            "lng": "27.5008068"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "세부",
+            "lat": "10.2931062",
+            "lng": "123.9020773"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마닐라",
+            "lat": "14.5948914",
+            "lng": "120.9782618"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "보홀",
+            "lat": "9.833333",
+            "lng": "124.1615579"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "타이페이",
+            "lat": "25.0375198",
+            "lng": "121.5636796"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "가오슝",
+            "lat": "22.6395321",
+            "lng": "120.3025585"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "타이중",
+            "lat": "24.1121054",
+            "lng": "120.6158968"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "화련",
+            "lat": "37.3190531",
+            "lng": "126.8321367"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마카오",
+            "lat": "22.1757605",
+            "lng": "113.5514142"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "싱가포르",
+            "lat": "1.357107",
+            "lng": "103.8194992"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "라마도",
+            "lat": "31.0748803",
+            "lng": "93.5266542"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "도쿄",
+            "lat": "35.6810912",
+            "lng": "139.7671861"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오사카",
+            "lat": "34.6198813",
+            "lng": "135.490357"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "후쿠오카",
+            "lat": "33.5898988",
+            "lng": "130.4017509"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오키나와",
+            "lat": "26.4748948",
+            "lng": "127.91146866408414"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "난징",
+            "lat": "32.0615652",
+            "lng": "118.7915079"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "남경",
+            "lat": "37.2594366",
+            "lng": "127.0452849"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "제주도",
+            "lat": "33.3939924",
+            "lng": "126.5626653"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "서울",
+            "lat": "37.5666791",
+            "lng": "126.9782914"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "경기도",
+            "lat": "37.2752",
+            "lng": "127.0095"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "경주",
+            "lat": "35.8556705",
+            "lng": "129.2248811"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "두바이",
+            "lat": "25.2653471",
+            "lng": "55.2924914"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아부다비",
+            "lat": "24.4538352",
+            "lng": "54.3774014"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바쿠",
+            "lat": "40.3755885",
+            "lng": "49.8328009"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "암만",
+            "lat": "31.9515694",
+            "lng": "35.9239625"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "페트라",
+            "lat": "30.3258363",
+            "lng": "35.4745669"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "텔아비브",
+            "lat": "32.0852997",
+            "lng": "34.7818064"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "예루살렘",
+            "lat": "31.79592425",
+            "lng": "35.21198075969497"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "도하",
+            "lat": "25.2856329",
+            "lng": "51.5264162"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "카트만두",
+            "lat": "27.708317",
+            "lng": "85.3205817"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "테를지",
+            "lat": "47.9895271",
+            "lng": "107.4615539"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뉴델리",
+            "lat": "28.6138954",
+            "lng": "77.2090057"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "델리",
+            "lat": "28.6517178",
+            "lng": "77.2219388"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "첸나이",
+            "lat": "13.0836939",
+            "lng": "80.270186"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "알마티",
+            "lat": "43.21833055",
+            "lng": "76.91925238619355"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "비슈케크",
+            "lat": "42.8765615",
+            "lng": "74.6070079"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하와이",
+            "lat": "19.593801499999998",
+            "lng": "-155.42837009716908"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뉴욕",
+            "lat": "40.7127281",
+            "lng": "-74.0060152"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "벤쿠버",
+            "lat": "37.561823",
+            "lng": "127.071034"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "과테말라",
+            "lat": "15.5855545",
+            "lng": "-90.345759"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "푼타 카나",
+            "lat": "18.556551",
+            "lng": "-68.3691611"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "산토도밍고",
+            "lat": "18.4801972",
+            "lng": "-69.942111"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "칸쿤",
+            "lat": "21.1617854",
+            "lng": "-86.8510468"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "멕시코시티",
+            "lat": "19.4326296",
+            "lng": "-99.1331785"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아카풀코",
+            "lat": "14.5390599",
+            "lng": "121.1436933"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "메리다",
+            "lat": "42.3593658",
+            "lng": "-1.5474177"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나소",
+            "lat": "25.0783456",
+            "lng": "-77.3383331"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "우유니",
+            "lat": "-20.46060285",
+            "lng": "-66.82436382407782"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "라파스",
+            "lat": "-16.4955455",
+            "lng": "-68.1336229"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "상파울루",
+            "lat": "-23.5506507",
+            "lng": "-46.6333824"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마나우스",
+            "lat": "-3.1316333",
+            "lng": "-59.9825041"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "브라질리아",
+            "lat": "-15.7934036",
+            "lng": "-47.8823172"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "부에노스아이레스",
+            "lat": "-34.6075682",
+            "lng": "-58.4370894"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "푸에르토이과수",
+            "lat": "-25.6107508",
+            "lng": "-54.5764199"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "살타",
+            "lat": "-25.1076701",
+            "lng": "-64.3494964"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "산살바도르",
+            "lat": "13.6989939",
+            "lng": "-89.1914249"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "몬테비데오",
+            "lat": "-34.9058916",
+            "lng": "-56.1913095"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "산티아고",
+            "lat": "-33.4377756",
+            "lng": "-70.6504502"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "산호세",
+            "lat": "9.9325427",
+            "lng": "-84.0795782"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "보고타",
+            "lat": "4.6533326",
+            "lng": "-74.083652"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아바나",
+            "lat": "23.135305",
+            "lng": "-82.3589631"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바라데로",
+            "lat": "23.194849599999998",
+            "lng": "-81.12440302795409"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "파나마시티",
+            "lat": "8.9714493",
+            "lng": "-79.5341802"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "쿠스코",
+            "lat": "-13.5170887",
+            "lng": "-71.9785356"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "리마",
+            "lat": "-12.0621065",
+            "lng": "-77.0365256"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아순시온",
+            "lat": "-25.2800459",
+            "lng": "-57.6343814"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오클랜드",
+            "lat": "-36.852095",
+            "lng": "174.7631803"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "퀸스타운",
+            "lat": "37.427544",
+            "lng": "127.24970692140428"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "웰링턴",
+            "lat": "-41.2887953",
+            "lng": "174.7772114"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시드니",
+            "lat": "-33.768528",
+            "lng": "150.9568559523945"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "멜버른",
+            "lat": "-37.8142176",
+            "lng": "144.9631608"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "퍼스",
+            "lat": "-31.9558964",
+            "lng": "115.8605801"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "케이프타운",
+            "lat": "-33.928992",
+            "lng": "18.417396"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "요하네스버그",
+            "lat": "-26.205",
+            "lng": "28.049722"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "프리토리아",
+            "lat": "-25.7459277",
+            "lng": "28.1879101"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마라케시",
+            "lat": "31.6258257",
+            "lng": "-7.9891608"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아가디르",
+            "lat": "30.4211144",
+            "lng": "-9.5830626"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "카사블랑카",
+            "lat": "37.3652862",
+            "lng": "127.1063078"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "페스",
+            "lat": "34.0346534",
+            "lng": "-5.0161926"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "카이로",
+            "lat": "30.0443879",
+            "lng": "31.2357257"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "후르가다",
+            "lat": "27.222556",
+            "lng": "33.8307062"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "룩소르",
+            "lat": "25.702096",
+            "lng": "32.647186"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "리빙스턴",
+            "lat": "-17.853135",
+            "lng": "25.861429"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나이로비",
+            "lat": "-1.2832533",
+            "lng": "36.8172449"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "모시",
+            "lat": "-3.3486456",
+            "lng": "37.3435249"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아디스아바바",
+            "lat": "9.0107934",
+            "lng": "38.7612525"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "델프트",
+            "lat": "52.0114017",
+            "lng": "4.35839"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "함부르크",
+            "lat": "53.550341",
+            "lng": "10.000654"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "쾰른",
+            "lat": "50.938361",
+            "lng": "6.959974"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "포츠담",
+            "lat": "52.4009309",
+            "lng": "13.0591397"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뉘른베르크",
+            "lat": "49.453872",
+            "lng": "11.077298"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "베른",
+            "lat": "46.9482713",
+            "lng": "7.4514512"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바젤",
+            "lat": "29.7519712",
+            "lng": "79.6476173"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "루가노",
+            "lat": "46.0050102",
+            "lng": "8.9520281"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "체르마트",
+            "lat": "45.990595",
+            "lng": "7.7421588005695"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바스",
+            "lat": "51.3813864",
+            "lng": "-2.3596963"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "벨파스트",
+            "lat": "54.596391",
+            "lng": "-5.9301829"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "맨체스터",
+            "lat": "53.4794892",
+            "lng": "-2.2451148"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "글래스고",
+            "lat": "55.8609825",
+            "lng": "-4.2488787"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "브라이튼",
+            "lat": "-37.91514375",
+            "lng": "144.98611364142238"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "소렌토",
+            "lat": "35.9331598",
+            "lng": "-115.133196"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나폴리",
+            "lat": "40.8358846",
+            "lng": "14.2487679"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시에나",
+            "lat": "43.1672254",
+            "lng": "11.467181161339118"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "폼페이",
+            "lat": "40.7491267",
+            "lng": "14.5006415"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "베로나",
+            "lat": "21.39488145",
+            "lng": "78.10450572320765"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "칸",
+            "lat": "38.27312",
+            "lng": "-98.5821872"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "리옹",
+            "lat": "45.7578137",
+            "lng": "4.8320114"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "샤모니",
+            "lat": "35.84668",
+            "lng": "128.534778"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "자킨토스",
+            "lat": "37.789138449999996",
+            "lng": "20.790089567090195"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "코린토스",
+            "lat": "37.9243436",
+            "lng": "22.9983761"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "발렌시아",
+            "lat": "35.14027",
+            "lng": "126.918979"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "말라가",
+            "lat": "14.3644919",
+            "lng": "120.82502"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "토레도",
+            "lat": "39.8560679",
+            "lng": "-4.0239568"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "톨레도",
+            "lat": "39.8560679",
+            "lng": "-4.0239568"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마요르카",
+            "lat": "39.613432",
+            "lng": "2.880353635614984"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "코르도바",
+            "lat": "-31.4173391",
+            "lng": "-64.183319"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "세고비아",
+            "lat": "40.9502159",
+            "lng": "-4.1241494"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "자다르",
+            "lat": "44.114906149999996",
+            "lng": "15.224327108489621"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "흐바르",
+            "lat": "43.173981299999994",
+            "lng": "16.556455274780376"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "트로기르",
+            "lat": "43.51786695",
+            "lng": "16.24821511513386"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바라주딘",
+            "lat": "46.3079645",
+            "lng": "16.3378198"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "풀라",
+            "lat": "40.9842539",
+            "lng": "16.6210027"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "로빈",
+            "lat": "43.2369882",
+            "lng": "-8.5640513"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "쿠사다시",
+            "lat": "38.3624957",
+            "lng": "42.993321900984824"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마르마리스",
+            "lat": "36.8522547",
+            "lng": "28.2742661"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시데",
+            "lat": "28.1789524",
+            "lng": "102.4353953"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "카이세리",
+            "lat": "38.7219011",
+            "lng": "35.4873214"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "라고스",
+            "lat": "6.4550575",
+            "lng": "3.3941795"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "파로",
+            "lat": "42.3231958",
+            "lng": "0.2440283"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "유즈노사할린스크",
+            "lat": "46.9574273",
+            "lng": "142.727438"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "랑카위",
+            "lat": "6.3700386",
+            "lng": "99.7928634"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "말라카",
+            "lat": "-31.293749650000002",
+            "lng": "150.1710355155657"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "푸트라자야",
+            "lat": "2.9140567",
+            "lng": "101.6838531"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "이포",
+            "lat": "4.5986817",
+            "lng": "101.0900236"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바고",
+            "lat": "18.327818200000003",
+            "lng": "95.64238092814989"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "호이안",
+            "lat": "15.8798137",
+            "lng": "108.3273939"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "푸꾸옥",
+            "lat": "10.1678025",
+            "lng": "103.99794779102275"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하롱베이",
+            "lat": "35.6873223",
+            "lng": "127.9078902"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "후에",
+            "lat": "16.4639321",
+            "lng": "107.5863388"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "닌빈",
+            "lat": "20.1844832",
+            "lng": "105.9802529"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "무이네",
+            "lat": "10.9332132",
+            "lng": "108.2871844"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "반둥",
+            "lat": "-6.9344694",
+            "lng": "107.6049539"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바탐",
+            "lat": "1.1061034",
+            "lng": "104.0378246"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "빈탄",
+            "lat": "1.0196844999999999",
+            "lng": "104.56982191698258"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시아누크빌",
+            "lat": "10.6220485",
+            "lng": "103.5223365"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "끄라비",
+            "lat": "8.0634637",
+            "lng": "98.9162345"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "후아힌",
+            "lat": "12.5699326",
+            "lng": "99.9573437"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "난",
+            "lat": "34.220389",
+            "lng": "70.3800314"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "다바오",
+            "lat": "7.0648306",
+            "lng": "125.6080623"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바기오",
+            "lat": "16.4119945",
+            "lng": "120.5933729"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "이란",
+            "lat": "32.6475314",
+            "lng": "54.5643516"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "타이난",
+            "lat": "22.9912348",
+            "lng": "120.184982"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "타이둥",
+            "lat": "22.7560447",
+            "lng": "121.1456538"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "교토",
+            "lat": "34.9853497",
+            "lng": "135.758766"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "삿포로",
+            "lat": "43.0659497",
+            "lng": "141.3506993"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나고야",
+            "lat": "35.1851045",
+            "lng": "136.8998438"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "고베",
+            "lat": "7.9992851",
+            "lng": "2.4075699"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "대마도",
+            "lat": "34.3952765",
+            "lng": "129.31544896587815"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하코네",
+            "lat": "35.222919",
+            "lng": "139.031616"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "베이징",
+            "lat": "39.906217",
+            "lng": "116.3912757"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "북경",
+            "lat": "35.6447033",
+            "lng": "129.35610458732538"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "상하이",
+            "lat": "31.2322758",
+            "lng": "121.4692071"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "수주",
+            "lat": "51.5514454",
+            "lng": "-1.7738043"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "심천",
+            "lat": "36.2368257",
+            "lng": "127.7207879"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "우한",
+            "lat": "30.5951051",
+            "lng": "114.2999353"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "경상도",
+            "lat": "35.7201569",
+            "lng": "128.6989206931839"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "전라도",
+            "lat": "35.00734465",
+            "lng": "126.4943107251238"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "강원도",
+            "lat": "37.885",
+            "lng": "127.7297"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "충청도",
+            "lat": "36.6182809",
+            "lng": "126.5701320075226"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "부산",
+            "lat": "35.1799528",
+            "lng": "129.0752365"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "전주",
+            "lat": "35.8242772",
+            "lng": "127.1481147"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "고아",
+            "lat": "15.3503192",
+            "lng": "74.10178169795284"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바라나시",
+            "lat": "25.3720449",
+            "lng": "82.94010554863681"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아그라",
+            "lat": "37.5345971",
+            "lng": "126.9909894"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "자이푸르",
+            "lat": "26.9154576",
+            "lng": "75.8189817"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마날리",
+            "lat": "8.8701353",
+            "lng": "76.6597293"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뭄바이",
+            "lat": "19.0785451",
+            "lng": "72.878176"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "샌프란시스코",
+            "lat": "37.7790262",
+            "lng": "-122.419906"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시카고",
+            "lat": "41.8755616",
+            "lng": "-87.6244212"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "워싱턴 DC",
+            "lat": "38.8950368",
+            "lng": "-77.0365427"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "마이애미",
+            "lat": "25.7741728",
+            "lng": "-80.19362"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "보스턴",
+            "lat": "42.3554334",
+            "lng": "-71.060511"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나이아가라",
+            "lat": "37.5228357",
+            "lng": "126.8472429"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "캘거리",
+            "lat": "51.0270526",
+            "lng": "-114.0993683"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "온타리오",
+            "lat": "50.000678",
+            "lng": "-86.000977"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "빅토리아 섬",
+            "lat": "70.91949005000001",
+            "lng": "-111.19743465420532"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "플라야 델 카르멘",
+            "lat": "20.6308643",
+            "lng": "-87.0779503"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "과나후아토",
+            "lat": "21.015935300000002",
+            "lng": "-101.25284989016231"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "푸콘",
+            "lat": "58.5389421",
+            "lng": "14.517926690182055"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "코야이케",
+            "lat": "34.7841843",
+            "lng": "135.3977485"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아리카",
+            "lat": "36.4706533",
+            "lng": "22.4307626"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "크라이스트처치",
+            "lat": "-43.530955",
+            "lng": "172.6366455"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "와이헤케",
+            "lat": "-36.79310825",
+            "lng": "175.08838633700123"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "파이히아",
+            "lat": "-35.2818684",
+            "lng": "174.0896775"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아카로아",
+            "lat": "-43.6754333",
+            "lng": "172.9906599"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "와이토모",
+            "lat": "-37.8963969",
+            "lng": "175.4709197"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "골드코스트",
+            "lat": "-28.0023731",
+            "lng": "153.4145987"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "브리즈번",
+            "lat": "-27.3874138",
+            "lng": "153.1214764569645"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "울루루",
+            "lat": "-25.3455545",
+            "lng": "131.03696147470208"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바이런베이",
+            "lat": "-28.6483333",
+            "lng": "153.6177778"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "탕헤르",
+            "lat": "35.777103",
+            "lng": "-5.803792"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "리세",
+            "lat": "50.403137",
+            "lng": "34.792351"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "슈투트가르트",
+            "lat": "48.7784485",
+            "lng": "9.1800132"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뒤셀도르프",
+            "lat": "51.2869035",
+            "lng": "6.761736665024513"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뷔르츠부르크",
+            "lat": "49.79245",
+            "lng": "9.932966"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "본",
+            "lat": "50.735851",
+            "lng": "7.10066"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "브레멘",
+            "lat": "53.0758196",
+            "lng": "8.8071646"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "로잔",
+            "lat": "46.553528150000005",
+            "lng": "6.695379344350099"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "인버네스",
+            "lat": "57.4790124",
+            "lng": "-4.225739"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "요크",
+            "lat": "53.9590555",
+            "lng": "-1.0815361"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "윈저",
+            "lat": "51.483757749999995",
+            "lng": "-0.6040964041849046"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "피사",
+            "lat": "43.7159395",
+            "lng": "10.4018624"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시칠리아",
+            "lat": "37.587794",
+            "lng": "14.155048"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "카타니아",
+            "lat": "37.5023612",
+            "lng": "15.0873718"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "친퀘테레",
+            "lat": "44.1222144",
+            "lng": "9.7132501"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "트리에스테",
+            "lat": "40.83722935",
+            "lng": "14.24894750763491"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "낭트",
+            "lat": "47.2186371",
+            "lng": "-1.5541362"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "릴",
+            "lat": "50.6365654",
+            "lng": "3.0635282"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "콜마",
+            "lat": "13.3090865",
+            "lng": "8.1961927"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "안시",
+            "lat": "45.8992348",
+            "lng": "6.1288847"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "몽펠리에",
+            "lat": "43.6112422",
+            "lng": "3.8767337"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "랭스",
+            "lat": "49.2577886",
+            "lng": "4.031926"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "지로나",
+            "lat": "41.9793006",
+            "lng": "2.8199439"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "빌바오",
+            "lat": "43.2630018",
+            "lng": "-2.9350039"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "카쉬",
+            "lat": "20.7223106",
+            "lng": "77.32878558209333"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "이즈미르",
+            "lat": "38.4224548",
+            "lng": "27.1310699"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "달랏",
+            "lat": "32.7762719",
+            "lng": "-96.7968559"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "사파",
+            "lat": "22.6196887",
+            "lng": "97.2992821"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "치앙라이",
+            "lat": "19.8950679",
+            "lng": "99.8311234"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "코창",
+            "lat": "22.82608865",
+            "lng": "85.46257264010225"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "코피피",
+            "lat": "35.578194",
+            "lng": "139.660217"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "수빅",
+            "lat": "14.78497865",
+            "lng": "120.23397993795183"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "벳푸",
+            "lat": "33.2845752",
+            "lng": "131.4913063"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "유후인",
+            "lat": "33.2624838",
+            "lng": "131.3549106"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시즈오카",
+            "lat": "34.9716454",
+            "lng": "138.3885902"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나라",
+            "lat": "23.914675799999998",
+            "lng": "87.0020268585383"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "후라노",
+            "lat": "43.3457722",
+            "lng": "142.392048"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "히로시마",
+            "lat": "34.3980242",
+            "lng": "132.476095"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "천진",
+            "lat": "38.2578",
+            "lng": "128.54954"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "청두",
+            "lat": "30.554776699999998",
+            "lng": "103.9479446811554"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시안",
+            "lat": "34.3430507",
+            "lng": "108.9350839"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "칭다오",
+            "lat": "25.0431734",
+            "lng": "121.524746"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "인천",
+            "lat": "37.456",
+            "lng": "126.7052"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "여수",
+            "lat": "34.7546257",
+            "lng": "127.659859"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "속초",
+            "lat": "38.2039506",
+            "lng": "128.5630404"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "가평",
+            "lat": "37.8314",
+            "lng": "127.5098"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "수원",
+            "lat": "37.2633325",
+            "lng": "127.0287472"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "구례",
+            "lat": "35.21066705",
+            "lng": "127.469437"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "심라",
+            "lat": "31.1041526",
+            "lng": "77.1709729"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "우다이푸르",
+            "lat": "23.0024169",
+            "lng": "72.5928227"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "올랜도",
+            "lat": "28.5421109",
+            "lng": "-81.3790304"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시애틀",
+            "lat": "47.6038321",
+            "lng": "-122.3300624"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "필라델피아",
+            "lat": "39.9527237",
+            "lng": "-75.1635262"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뉴올리언스",
+            "lat": "29.9759983",
+            "lng": "-90.0782127"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오타와",
+            "lat": "45.3969506",
+            "lng": "-75.6851593"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "휘슬러",
+            "lat": "35.2150101",
+            "lng": "128.6868986"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "유콘",
+            "lat": "63.000147",
+            "lng": "-136.002502"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "캔버라",
+            "lat": "-35.2975906",
+            "lng": "149.1012676"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "다윈",
+            "lat": "48.3590036",
+            "lng": "13.2023253"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "위니펙",
+            "lat": "31.7855293",
+            "lng": "34.706198"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "포틀랜드",
+            "lat": "45.5202471",
+            "lng": "-122.6741949"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "키웨스트",
+            "lat": "24.5625566",
+            "lng": "-81.7724368"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "세도나",
+            "lat": "34.8679599",
+            "lng": "-111.7617165"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "강릉",
+            "lat": "37.76452",
+            "lng": "128.8993979"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "울산",
+            "lat": "35.5391697",
+            "lng": "129.3119136"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "지리산",
+            "lat": "34.8459331",
+            "lng": "128.182163"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "광주",
+            "lat": "35.1595775",
+            "lng": "126.8515089"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하동",
+            "lat": "35.067279",
+            "lng": "127.751741"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "고양",
+            "lat": "37.6581862",
+            "lng": "126.8319452"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "계림",
+            "lat": "37.5701065",
+            "lng": "126.9945445"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하이난",
+            "lat": "19.2000001",
+            "lng": "109.5999999"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "광저우",
+            "lat": "23.1090145",
+            "lng": "113.31914765102232"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "항저우",
+            "lat": "30.2368729",
+            "lng": "120.42912444938366"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나가사키",
+            "lat": "33.1154683",
+            "lng": "129.7874339"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "닛코",
+            "lat": "50.5198985",
+            "lng": "22.139886"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "가나자와",
+            "lat": "36.5780499",
+            "lng": "136.6480247"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "센다이",
+            "lat": "38.2677554",
+            "lng": "140.8691498"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "가고시마",
+            "lat": "31.803187",
+            "lng": "130.718951"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오타루",
+            "lat": "19.1172",
+            "lng": "36.4679"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "프라이부르크",
+            "lat": "47.9960901",
+            "lng": "7.8494005"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아헨",
+            "lat": "50.776351",
+            "lng": "6.083862"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "퓌센",
+            "lat": "47.5709212",
+            "lng": "10.6977089"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "버밍엄",
+            "lat": "52.4796992",
+            "lng": "-1.9026911"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "켄트",
+            "lat": "47.3826903",
+            "lng": "-122.2270272"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "카디프",
+            "lat": "51.4816546",
+            "lng": "-3.1791934"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "본머스",
+            "lat": "50.744673199999994",
+            "lng": "-1.8579577396350433"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "토리노",
+            "lat": "45.0677551",
+            "lng": "7.6824892"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "제노바",
+            "lat": "34.6406454",
+            "lng": "135.0286672"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "모데나",
+            "lat": "44.5384728",
+            "lng": "10.935960870530739"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "팔레르모",
+            "lat": "38.13724645",
+            "lng": "13.310709015591701"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아시시",
+            "lat": "33.1689443",
+            "lng": "75.6956828"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "님",
+            "lat": "43.8374249",
+            "lng": "4.3600687"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "라로셸",
+            "lat": "46.1591126",
+            "lng": "-1.1520434"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "엑상프로방스",
+            "lat": "43.5298424",
+            "lng": "5.4474738"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "콘수에그라",
+            "lat": "39.460918",
+            "lng": "-3.6070786"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "네르하",
+            "lat": "34.885182",
+            "lng": "128.31542"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하노버",
+            "lat": "52.3744779",
+            "lng": "9.7385532"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "타오르미나",
+            "lat": "37.847927850000005",
+            "lng": "15.277554828145671"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "부세토",
+            "lat": "37.992992",
+            "lng": "12.732890665492521"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "티볼리",
+            "lat": "55.6733426",
+            "lng": "12.569042195439536"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "푸아티에",
+            "lat": "46.5802596",
+            "lng": "0.340196"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "툴루즈",
+            "lat": "43.6044622",
+            "lng": "1.4442469"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "알자스",
+            "lat": "48.24917645",
+            "lng": "7.4074699518555"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "갈리시아",
+            "lat": "42.61946",
+            "lng": "-7.863112"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "사라고사",
+            "lat": "41.6521342",
+            "lng": "-0.8809428"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "요코하마",
+            "lat": "35.444991",
+            "lng": "139.636768"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시모노세키",
+            "lat": "33.9577116",
+            "lng": "130.9415455"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "와카야마",
+            "lat": "34.234617",
+            "lng": "135.1782181"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "미에",
+            "lat": "34.7339685",
+            "lng": "136.5154489"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "가나가와",
+            "lat": "35.4715259",
+            "lng": "139.6275201"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "대구",
+            "lat": "35.8713",
+            "lng": "128.6018"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "남원",
+            "lat": "35.4112509",
+            "lng": "127.3613332"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "대전",
+            "lat": "36.3496",
+            "lng": "127.3848"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "통영",
+            "lat": "34.774838",
+            "lng": "127.724181"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "청도",
+            "lat": "35.6473012",
+            "lng": "128.7348468"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "제천",
+            "lat": "37.1326042",
+            "lng": "128.1913508"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "덴버",
+            "lat": "39.7392364",
+            "lng": "-104.9848623"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "플로리다",
+            "lat": "27.7567667",
+            "lng": "-81.4639835"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "애리조나",
+            "lat": "34.395342",
+            "lng": "-111.763275"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "피닉스",
+            "lat": "33.4484367",
+            "lng": "-112.074141"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "휴스턴",
+            "lat": "29.7589382",
+            "lng": "-95.3676974"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "펜실베이니아",
+            "lat": "40.9699889",
+            "lng": "-77.7278831"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "뉴저지",
+            "lat": "40.0757384",
+            "lng": "-74.4041622"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "알래스카",
+            "lat": "64.4459613",
+            "lng": "-149.680909"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "파주",
+            "lat": "37.7598955",
+            "lng": "126.7801502"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "춘천",
+            "lat": "37.8810569",
+            "lng": "127.7297641"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "홍천",
+            "lat": "37.6967",
+            "lng": "127.8888"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "이천",
+            "lat": "37.2808823",
+            "lng": "127.4429132"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "군산",
+            "lat": "35.9679984",
+            "lng": "126.7369036"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "김포",
+            "lat": "37.615461",
+            "lng": "126.7157891"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "다카야마",
+            "lat": "36.1396246",
+            "lng": "137.2510322"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "구시로",
+            "lat": "42.9906837",
+            "lng": "144.3820381"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "사가",
+            "lat": "33.2185408",
+            "lng": "130.1296585"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "도야마",
+            "lat": "36.6957569",
+            "lng": "137.2136215"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "미야자키",
+            "lat": "31.9157563",
+            "lng": "131.4319822"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "돗토리",
+            "lat": "37.7249191",
+            "lng": "126.7189273"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "레버쿠젠",
+            "lat": "51.0324743",
+            "lng": "6.9881194"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "로텐부르크",
+            "lat": "49.3658042",
+            "lng": "10.162918227293353"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오프",
+            "lat": "10.6105992",
+            "lng": "104.1815177"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "데어",
+            "lat": "33.2219679",
+            "lng": "126.2544341"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "타우버",
+            "lat": "49.3756323",
+            "lng": "10.1763938"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바리",
+            "lat": "48.8588897",
+            "lng": "2.3200410217200766"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바이로이트",
+            "lat": "49.9270796",
+            "lng": "11.587226615128671"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "코헴",
+            "lat": "50.14222785",
+            "lng": "7.167087023380078"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바이마르",
+            "lat": "50.97571335",
+            "lng": "11.330109194410245"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "아오모리",
+            "lat": "40.8298869",
+            "lng": "140.7342705"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "니세코",
+            "lat": "42.804684",
+            "lng": "140.6873034"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "요나고",
+            "lat": "35.4276408",
+            "lng": "133.331459"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "히메지",
+            "lat": "34.8153529",
+            "lng": "134.6854793"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "시코쿠",
+            "lat": "33.560875",
+            "lng": "133.37188573946167"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "하코다테",
+            "lat": "41.768793",
+            "lng": "140.729008"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "영월",
+            "lat": "37.1821719",
+            "lng": "128.4809263"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "공주",
+            "lat": "36.47257",
+            "lng": "127.09124"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "남해",
+            "lat": "34.1347188",
+            "lng": "128.0619728"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "서산",
+            "lat": "36.784499",
+            "lng": "126.450317"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "동해",
+            "lat": "43.060053350000004",
+            "lng": "137.33530126992395"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "고창",
+            "lat": "35.4355",
+            "lng": "126.7021"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "리노",
+            "lat": "-2.7176376",
+            "lng": "120.5107266"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "디트로이트",
+            "lat": "42.3315509",
+            "lng": "-83.0466403"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "샌 안토니오",
+            "lat": "49.4911522",
+            "lng": "0.8827362"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "샌안토니오",
+            "lat": "29.4246002",
+            "lng": "-98.4951405"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "연천",
+            "lat": "38.0964",
+            "lng": "127.0746"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "화성",
+            "lat": "37.1994653",
+            "lng": "126.8312632"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "인제",
+            "lat": "38.0694",
+            "lng": "128.1706"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "단양",
+            "lat": "36.9731041",
+            "lng": "128.34404"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "순천",
+            "lat": "34.9505457",
+            "lng": "127.4872992"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "포항",
+            "lat": "36.0189315",
+            "lng": "129.3429384"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "미야기",
+            "lat": "34.9803071",
+            "lng": "139.838919"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "오카야마",
+            "lat": "34.6553944",
+            "lng": "133.9194595"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "샤리",
+            "lat": "28.9071323",
+            "lng": "80.3208802"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "나가노",
+            "lat": "36.1143945",
+            "lng": "138.0319015"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "고치",
+            "lat": "33.5672383",
+            "lng": "133.5435903"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "지토세",
+            "lat": "42.8282573",
+            "lng": "141.6518556"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "바덴바덴",
+            "lat": "48.7580777",
+            "lng": "8.2415239"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "에르푸르트",
+            "lat": "50.9777974",
+            "lng": "11.0287364"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "지토세",
+            "lat": "42.8282573",
+            "lng": "141.6518556"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "다테야마",
+            "lat": "34.9959209",
+            "lng": "139.8618906"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "포항",
+            "lat": "36.0189315",
+            "lng": "129.3429384"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "당진",
+            "lat": "36.8904083",
+            "lng": "126.6461833"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "함양",
+            "lat": "35.5220848",
+            "lng": "128.768874"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "담양",
+            "lat": "35.2249722",
+            "lng": "126.9917417"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "야마가타",
+            "lat": "38.2553393",
+            "lng": "140.3400205"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "원주",
+            "lat": "37.3420996",
+            "lng": "127.9197603"
+        }
+    },
+    {
+        "model": "videos.city",
+        "fields": {
+            "name": "지토세",
+            "lat": "42.8282573",
+            "lng": "141.6518556"
+        }
+    }
+]
